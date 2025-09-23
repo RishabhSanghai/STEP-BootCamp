@@ -54,19 +54,19 @@ This is my programming practice and coursework vault for Semester 2 and 3!
 ## 📘 Semester 2
 
 ### 🔹 Extra Practice Program
-- [Week 1](Sem_2/Extra_Practice_Program/Week_1)
+- [Week 1](Sem_2/Extra%20Practice%20Program/Week%201)
 
 ### 🔹 Learning Programming
-- [DistanceCompute.java](Sem_2/Learning_Programming/DistanceCompute.java)
-- [PassFail.java](Sem_2/Learning_Programming/PassFail.java)
-- [UserInputTest.java](Sem_2/Learning_Programming/UserInputTest.java)
+- [DistanceCompute.java](Sem_2/Learning%20Programming/DistanceCompute.java)
+- [PassFail.java](Sem_2/Learning%20Programming/PassFail.java)
+- [UserInputTest.java](Sem_2/Learning%20Programming/UserInputTest.java)
 
 ### 🔹 Practice Program
-- [Week 1 – Java Programming Elements](Sem_2/Practice_Program/Week_1_[JAVA_PROGRAMMING_ELEMENTS])
-- [Week 2 – Java Control Flow Concepts](Sem_2/Practice_Program/Week_2_[JAVA_CONTROL_FLOWS_CONCEPTS])
-- [Week 3 – Java Arrays](Sem_2/Practice_Program/Week_3_[JAVA_ARRAYS])
-- [Week 4 – Java Methods](Sem_2/Practice_Program/Week_4_[JAVA_METHODS])
-- [Week 5 – Java Strings](Sem_2/Practice_Program/Week_5_[JAVA_STRINGS])
+- [Week 1 – Java Programming Elements](Sem_2/Practice%20Program/Week%201%20%5BJAVA%20PROGRAMMING%20ELEMENTS%5D)
+- [Week 2 – Java Control Flow Concepts](Sem_2/Practice%20Program/Week%202%20%5BJAVA%20CONTROL%20FLOWS%20CONCEPTS%5D)
+- [Week 3 – Java Arrays](Sem_2/Practice%20Program/Week%203%20%5BJAVA%20ARRAYS%5D)
+- [Week 4 – Java Methods](Sem_2/Practice%20Program/Week%204%20%5BJAVA%20METHODS%5D)
+- [Week 5 – Java Strings](Sem_2/Practice%20Program/Week%205%20%5BJAVA%20STRINGS%5D)
 
 ---
 
