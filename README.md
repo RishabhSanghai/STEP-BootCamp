@@ -1,11 +1,10 @@
 # 🎓 STEP Bootcamp Repository
 
 📚 Structured programming coursework and practice repository  
-🗓 Semester 2 & Semester 3  
-💻 Java-based academic implementation  
+🗓 Semester 2, Semester 3 & Semester 4 💻 Java-based academic implementation
+👤 Author: RishabhSanghai
 
-This repository is organized week-wise with clear separation between coursework, lab work, and additional practice modules.
-
+This repository is organized week-wise and semester-wise with clear separation between coursework, lab work, and specialized implementation modules.
 ---
 
 ## 🗂 Repository Structure
@@ -27,6 +26,9 @@ This repository is organized week-wise with clear separation between coursework,
 │   ├── WEEK_7
 │   ├── WEEK_8
 │   └── WEEK_9
+├── Sem 4
+│   ├── HelloApp
+│   ├── PalindromeChecker
 ```
 
 ---
@@ -71,6 +73,30 @@ Each weekly module includes:
 
 ---
 
+# 📗 Semester 4 (New!)
+Focus: Advanced Data Structures & Algorithmic Logic
+
+🛠️ Specialized Projects
+
+📁 HelloApp Project
+Status: Initial bootstrapping complete.
+
+📁 PalindromeChecker Project
+Goal: Symmetric validation using diverse data structures.
+
+Implementation	Logic Paradigm	                Data Structure
+Task UC1	      Welcome Page Initialization    	String
+Task UC2	      Hardcoded Logic (Half-Length)	  String
+Task UC3	      Transformation via Reversal	    String
+Task UC4	      Two-Pointer Manipulation	      char[]
+Task UC5	      LIFO Implementation	            Stack
+Task UC6	      FIFO vs LIFO Comparison	        Queue & Stack
+Task UC7	      Bidirectional Traversal	        Deque
+Task UC8	      Dynamic Node Management	        LinkedList
+Task UC9	      Recursive Validation	          Call Stack
+
+---
+
 # 🚀 Running Java Programs
 
 ### 🔹 Compile
@@ -95,4 +121,4 @@ java FileName
 
 ---
 
-⭐ Clean Structure • 📚 Academic Organization • 🚀 Modular Weekly Design
+⭐ Clean Structure • 📚 Academic Organization • 🚀 Advanced Algorithmic Design
