@@ -13,7 +13,7 @@
  * - Displays the result on the console
  * * This use case introduces fundamental comparison logic
  * before using advanced data structures.
- * * @author Developer
+ * * @author RishabhSanghai
  * @version 2.0
  */
 public class UseCase2PalindromeCheckerApp {
