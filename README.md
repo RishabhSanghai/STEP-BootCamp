@@ -1,11 +1,10 @@
 # 🎓 STEP Bootcamp Repository
 
 📚 Structured programming coursework and practice repository  
-🗓 Semester 2 & Semester 3  
-💻 Java-based academic implementation  
+🗓 Semester 2, Semester 3 & Semester 4 💻 Java-based academic implementation
+👤 Author: RishabhSanghai
 
-This repository is organized week-wise with clear separation between coursework, lab work, and additional practice modules.
-
+This repository is organized week-wise and semester-wise with clear separation between coursework, lab work, and specialized implementation modules.
 ---
 
 ## 🗂 Repository Structure
@@ -27,11 +26,14 @@ This repository is organized week-wise with clear separation between coursework,
 │   ├── WEEK_7
 │   ├── WEEK_8
 │   └── WEEK_9
+├── Sem 4
+│   ├── HelloApp
+│   ├── PalindromeChecker
 ```
 
 ---
 
-# 📘 Semester 2  
+# 📘 Semester 2
 **Focus:** Java Fundamentals & Core Programming Concepts
 
 ## 🧩 Extra Practice Program
@@ -50,12 +52,12 @@ This repository is organized week-wise with clear separation between coursework,
 
 ---
 
-# 📗 Semester 3  
+# 📗 Semester 3
 
 Each weekly module includes:
-- 📝 Homework  
-- 🧪 Lab Work  
-- 🔁 Practice Exercises  
+- 📝 Homework
+- 🧪 Lab Work
+- 🔁 Practice Exercises
 
 ## 📅 Weekly Modules
 
@@ -68,6 +70,31 @@ Each weekly module includes:
 - 📁 [Week 7](Sem_3/WEEK_7)
 - 📁 [Week 8](Sem_3/WEEK_8)
 - 📁 [Week 9](Sem_3/WEEK_9)
+
+---
+
+# 📗 Semester 4 (New!)
+Focus: Advanced Data Structures & Algorithmic Logic
+
+🛠️ Specialized Projects
+
+📁 HelloApp Project
+Status: Initial bootstrapping complete.
+
+📁 PalindromeChecker Project
+Goal: Symmetric validation using diverse data structures.
+
+| Implementation | Logic Paradigm | Data Structure |
+| :--- | :--- | :--- |
+| **Task UC1** | Welcome Page Initialization | String |
+| **Task UC2** | Hardcoded Logic (Half-Length) | String |
+| **Task UC3** | Transformation via Reversal | String |
+| **Task UC4** | Two-Pointer Manipulation | char[] |
+| **Task UC5** | LIFO Implementation | Stack |
+| **Task UC6** | FIFO vs LIFO Comparison | Queue & Stack |
+| **Task UC7** | Bidirectional Traversal | Deque |
+| **Task UC8** | Dynamic Node Management | LinkedList |
+| **Task UC9** | Recursive Validation | Call Stack |
 
 ---
 
@@ -89,10 +116,10 @@ java FileName
 
 ## 🛠 Technology Stack
 
-- ☕ Java  
-- 💻 Command Line Compilation  
-- 🗂 Structured Academic Repository Design  
+- ☕ Java
+- 💻 Command Line Compilation
+- 🗂 Structured Academic Repository Design
 
 ---
 
-⭐ Clean Structure • 📚 Academic Organization • 🚀 Modular Weekly Design
+⭐ Clean Structure • 📚 Academic Organization • 🚀 Advanced Algorithmic Design
