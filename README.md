@@ -2,6 +2,7 @@
 
 📚 Structured programming coursework and practice repository  
 🗓 Semester 2, Semester 3 & Semester 4 💻 Java-based academic implementation
+
 👤 Author: RishabhSanghai
 
 This repository is organized week-wise and semester-wise with clear separation between coursework, lab work, and specialized implementation modules.
