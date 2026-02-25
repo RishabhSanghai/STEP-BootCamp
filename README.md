@@ -84,16 +84,16 @@ Status: Initial bootstrapping complete.
 📁 PalindromeChecker Project
 Goal: Symmetric validation using diverse data structures.
 
-Implementation	Logic Paradigm	                Data Structure
-Task UC1	      Welcome Page Initialization    	String
-Task UC2	      Hardcoded Logic (Half-Length)	  String
-Task UC3	      Transformation via Reversal	    String
-Task UC4	      Two-Pointer Manipulation	      char[]
-Task UC5	      LIFO Implementation	            Stack
-Task UC6	      FIFO vs LIFO Comparison	        Queue & Stack
-Task UC7	      Bidirectional Traversal	        Deque
-Task UC8	      Dynamic Node Management	        LinkedList
-Task UC9	      Recursive Validation	          Call Stack
+Implementation,Logic Paradigm,Data Structure
+Task UC1,Welcome Page Initialization,String
+Task UC2,Hardcoded Logic (Half-Length),String
+Task UC3,Transformation via Reversal,String
+Task UC4,Two-Pointer Manipulation,char[]
+Task UC5,LIFO Implementation,Stack
+Task UC6,FIFO vs LIFO Comparison,Queue & Stack
+Task UC7,Bidirectional Traversal,Deque
+Task UC8,Dynamic Node Management,LinkedList
+Task UC9,Recursive Validation,Call Stack
 
 ---
 
