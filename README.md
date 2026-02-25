@@ -74,15 +74,17 @@ Each weekly module includes:
 ---
 
 # 📗 Semester 4 (New!)
-Focus: Advanced Data Structures & Algorithmic Logic
+**Focus:** Advanced Data Structures & Algorithmic Logic
 
-🛠️ Specialized Projects
+---
 
-📁 HelloApp Project
-Status: Initial bootstrapping complete.
+## 🛠️ Specialized Projects
 
-📁 PalindromeChecker Project
-Goal: Symmetric validation using diverse data structures.
+### 📂 [HelloApp Project](https://github.com/RishabhSanghai/STEP-BootCamp/tree/main/Sem_4/HelloApp)
+* **Status:** Initial bootstrapping complete.
+
+### 📂 [PalindromeChecker Project](https://github.com/RishabhSanghai/STEP-BootCamp/tree/main/Sem_4/PalindromeChecker)
+* **Goal:** Symmetric validation using diverse data structures.
 
 | Implementation | Logic Paradigm | Data Structure |
 | :--- | :--- | :--- |
@@ -95,6 +97,19 @@ Goal: Symmetric validation using diverse data structures.
 | **Task UC7** | Bidirectional Traversal | Deque |
 | **Task UC8** | Dynamic Node Management | LinkedList |
 | **Task UC9** | Recursive Validation | Call Stack |
+
+---
+
+### 🚀 Execution Guide
+1. **Navigate:** `cd Sem_4/PalindromeChecker`
+2. **Compile:** `javac UseCaseFileName.java`
+3. **Run:** `java UseCaseFileName`
+
+---
+
+### 🧹 Repository Maintenance
+* **Status:** All feature branches successfully merged into `main`.
+* **Cleanup:** Local branch directory purged of clutter.
 
 ---
 
